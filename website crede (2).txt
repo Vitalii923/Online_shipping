@@ -1,0 +1,22 @@
+   "AccountCountryCode": "QA",
+
+        "AccountEntity": "DOH",
+
+        "AccountPin": "115216",
+
+        "AccountNumber": "7373",
+
+        "UserName": "testingapi@aramex.com",
+
+        "Password": "R123456789$r",
+
+
+
+'AccountNumber'		 	=> '60520280',
+        'UserName'			 	=> 'marwen@dakkaken.com',
+        'Password'			 	=> 'Dak@2023',
+        'AccountPin'		 	=> '321321',
+        'AccountEntity'		 	=> 'DOH',
+        'AccountCountryCode'	=> 'QA',
+        'Version'			 	=> 'v1.0'
+ 
